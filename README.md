@@ -1,3 +1,5 @@
+# PS: the code's functions are very dirty
+
 # Getting Started
 Install the dependencies and run the project
 ```
